@@ -1,5 +1,4 @@
-# **LLM-Inferbench (MLX Edition)**  
-*A side project for data-driven benchmarking of Large Language Model inference on Apple Silicon (M5, 16GB).*
+# **LLM-Inferbench (MLX)**
 
 ---
 
@@ -165,4 +164,5 @@ This is an actively developing **side project**, with emphasis on:
 
 PRs, suggestions, and optimizations for MLX inference or metrics are welcome.  
 Feel free to open an issue or submit a pull request with improvements.
+
 
