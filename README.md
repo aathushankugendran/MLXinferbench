@@ -1,5 +1,4 @@
 # **LLM-Inferbench (MLX)**
----
 
 ## 📌 Overview
 
@@ -163,6 +162,7 @@ This is an actively developing **side project**, with emphasis on:
 
 PRs, suggestions, and optimizations for MLX inference or metrics are welcome.  
 Feel free to open an issue or submit a pull request with improvements.
+
 
 
 
